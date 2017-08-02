@@ -375,7 +375,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success:active,
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
-  color: white;
+  color: #2C3E50;
   background-color: #128f76;
   border-color: #11866f;
 }
@@ -410,7 +410,7 @@ fieldset[disabled] .btn-success.active {
   display: inline-block;
   height: 50px;
   width: 50px;
-  border: 2px solid white;
+  border: 2px solid #2C3E50;
   border-radius: 100%;
   text-align: center;
   font-size: 20px;
